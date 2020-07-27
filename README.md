@@ -1,16 +1,24 @@
-### Hi there 👋
+### Cleyson Lima 👨‍🏫 👨‍💻
 
-<!--
-**CleysonPH/cleysonph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleysonph)](https://github.com/cleysonph)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleysonph/)](https://www.linkedin.com/in/cleysonph/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cleysonph)](https://twitter.com/cleysonph)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTfZtpapCcKlvppWCAsYaPQ)](https://www.youtube.com/channel/UCTfZtpapCcKlvppWCAsYaPQ)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleysonph@gmail.com)](mailto:cleysonph@gmail.com/)
 
-Here are some ideas to get you started:
+## Hi 👋
+ 
+I am a teacher of Programming Literacy in Teresina - PI with 2 years of experience.
+My "native" programming language, I've study about it for over 4 years. I've used it in the back-end with Flask and Django, for testing automation using Unititest, Pytest Selenium, and for web scrapping i've been using the Requests library and Beautiful Soup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- 🎓 Licentiate's Degree in Computer Science (2016 - Current)
+
+## Skills
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Icon" width="40"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Icon" width="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Icon" width="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Icon" width="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Icon" width="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Icon" width="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="40"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino Icon" width="40"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot Icon" width="40">
+
+## GitHub Stats
+
+![Cleysonph Github Stats](https://github-readme-stats.vercel.app/api?username=cleysonph&show_icons=true)
