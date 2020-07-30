@@ -9,7 +9,7 @@
 ## Hi 👋
  
 I am a teacher of Programming Literacy in Teresina - PI with 2 years of experience.
-My "native" programming language, I've study about it for over 4 years. I've used it in the back-end with Flask and Django, for testing automation using Unititest, Pytest Selenium, and for web scrapping i've been using the Requests library and Beautiful Soup.
+Python is my "native" programming language, I've study about it for over 4 years. I've used it in the back-end with Flask and Django, for testing automation using Unititest, Pytest Selenium, and for web scrapping i've been using the Requests library and Beautiful Soup.
 
 ## Education
 
