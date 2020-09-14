@@ -21,4 +21,9 @@ Python is my "native" programming language, I've study about it for over 4 years
 
 ## GitHub Stats
 
-![Cleysonph Github Stats](https://github-readme-stats.vercel.app/api?username=cleysonph&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cleysonph&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleysonph&theme=dracula&layout=compact" />
+</a>
