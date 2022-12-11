@@ -43,5 +43,8 @@ I have solid knowledge of the Python language and the Flask and Django web frame
 ## GitHub Stats
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=cleysonph&show_icons=true&count_private=true&theme=dracula" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleysonph&layout=compact&theme=dracula&hide=css,html" height = "165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleysonph&layout=compact&theme=dracula&hide=css,html" height="165">
 </a>
+
+## WakaTime Stats
+<img src="https://wakatime.com/share/@cleysonph/4605be59-0d47-492d-9f3e-ae0d681d7c6b.svg">
