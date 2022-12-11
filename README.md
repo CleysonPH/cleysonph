@@ -22,9 +22,14 @@ I have solid knowledge of the Python language and the Flask and Django web frame
 ## Skills
 
 <p>
+ <img src="https://img.shields.io/badge/GoLang-79D4FD?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</p>
+
+<p>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
  <img src="https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+ <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 <p>
@@ -33,11 +38,6 @@ I have solid knowledge of the Python language and the Flask and Django web frame
  <img src="https://img.shields.io/badge/Spring%20Web%20MVC-41B300?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Web MVC" />
  <img src="https://img.shields.io/badge/Spring%20Security-41B300?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-41B300?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security" />
-</p>
-
-<p>
- <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge" alt="Godot" />
- <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ## GitHub Stats
